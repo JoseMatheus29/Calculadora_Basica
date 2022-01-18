@@ -23,6 +23,7 @@
                 <li>Módulo Math</li>
                 <li>Módulo Tkinter</li>
                 <li>Módulo typing</li>
+                </ul>
         <li>Uma IDE para executar o projeto</li>
             <ul>
                 <li><a href="https://code.visualstudio.com/download">VsCode</a></li>
