@@ -1,5 +1,5 @@
 <h1 align = "center">Readme</h1>
-<h1 align = "center">Api Estante Magica</h1>
+<h1 align = "center">Calculadora</h1>
 <p align = "center ">
     <a href="#Sobre">Sobre</a>
     <a href="#Descrição">Descrição</a>
